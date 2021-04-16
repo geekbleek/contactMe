@@ -4,7 +4,7 @@ Why not have another random channel someone can reach out to me on?  Open a PR t
 # Purpose
 Knowing which channel to communicate with someone on, what their contact info is, and even manning all of the potential channels is impossible today.  
 
-From Microsoft Teams, Slack, Cisco Webex, Webex Teams, Google Meet, Email, SMS or iMessage, Jabber, Lync, Skype, GoToMeeting, Hangouts/Google Chat, Signal, Telegram, Facebook Messenger, LinkedIn, WhatsApp, Reddit, a private Discord server, Clubhouse, Racket, Facetime, Twitter, TikTok(?!), Instagram, AOL Instant Messenger, my pager, or snail mail.
+From Microsoft Teams, Slack, Cisco Webex, Webex Teams, Google Meet, Email, SMS or iMessage, Jabber, Lync, Skype, GoToMeeting, Hangouts/Google Chat, Signal, Telegram, Facebook Messenger, LinkedIn, WhatsApp, Zoom, Reddit, a private Discord server, Clubhouse, Racket, Facetime, Twitter, TikTok(?!), Instagram, AOL Instant Messenger, my pager, or snail mail.
 
 So why not have another ridiculous option of opening a pull request on a repo?
 
